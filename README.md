@@ -10,6 +10,7 @@ study of a digital twin of the proposed Buena Vista biomass-powered
 AI data center in Ione, Amador County, California
 
 Written by Maurice Bizzarri, July, 2026
+
 Research and Editorial Assistance: ChatGPT
 
 ## Purpose
