@@ -2,12 +2,12 @@
 
 ## Buena Vista Biomass AI Data Center
 
-Version 0.2
+Version 1.0
 July 14, 2026
 
 The Amador Digital Twin project is a public, evidence-based engineering
-study of a digital twin of the proposed Buena Vista biomass-powered
-AI data center in Ione, Amador County, California
+study whose objective is the development of a digital twin of the proposed
+Buena Vista biomass-powered AI data center in Ione, Amador County, California.
 
 Written by Maurice Bizzarri, July, 2026
 
@@ -19,7 +19,10 @@ Large industrial infrastructure projects combine mechanical engineering,
 electrical engineering, thermodynamics, logistics, environmental systems,
 controls, economics, and software. This repository explores one such project
 by combining an evidence-based knowledge base with a digital twin
-constructed from publicly available information.
+constructed from publicly available information. The resulting knowledge
+base is intended to provide engineers, researchers, public officials, and
+interested citizens with a single, well-organized technical reference
+for understanding the proposed facility.
 
 The proposed Buena Vista redevelopment combines biomass energy generation,
 biochar production, energy storage, and AI computing infrastructure into a
@@ -34,14 +37,14 @@ these subsystems requires a multidisciplinary engineering approach.
 	- Every significant engineering parameter should be traceable
 	  to a source.
 	- Contradictory evidence is preserved until resolved.
-	- The simulator is intended to improve understanding,
+	- Models and simulation are intended to improve understanding,
 	  not advocate a position.
 
 
 ## Current Status
 
 This project intentionally begins with discovery rather than implementation.
-Understanding the system precedes modeling the system..
+Understanding the system precedes modeling the system.
 
 The emphasis is on collecting, organizing, and validating publicly available
 technical information before implementing detailed simulation models.
@@ -70,4 +73,6 @@ The repository is organized into four major areas:
     - Software
       Go source code implementing the digital twin.
 
+## License
 
+This project is released under the GNU General Public License v3.0.
