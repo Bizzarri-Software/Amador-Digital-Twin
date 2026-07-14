@@ -12,8 +12,6 @@ AI data center in Ione, Amador County, California
 Written by Maurice Bizzarri, July, 2026
 Research and Editorial Assistance: ChatGPT
 
-</> Markdown
-
 ## Purpose
 
 Large industrial infrastructure projects combine mechanical engineering,
