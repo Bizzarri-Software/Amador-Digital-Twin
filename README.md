@@ -5,6 +5,12 @@ Written by Maurice Bizzarri with a lot of help from ChatGPT, July 2026
 
 Current Status
 
+Large industrial infrastructure projects combine mechanical engineering,
+electrical engineering, thermodynamics, logistics, environmental systems,
+controls, economics, and software. This repository explores one such project
+by combining an evidence-based knowledge base with a digital twin capable of
+modeling system behavior.
+
 The project is presently in the Discovery phase.
 
 The emphasis is on collecting, organizing, and validating publicly available
