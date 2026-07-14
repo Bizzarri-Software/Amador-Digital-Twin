@@ -57,16 +57,16 @@ Repository Organization
 
 The repository is organized into four major areas:
 
-Documentation
-    Engineering notes, discovery log, and project documentation.
+    - Documentation
+      Engineering notes, discovery log, and project documentation.
 
-Evidence
-    Publicly available source documents, references, and supporting material.
+    - Evidence
+      Publicly available source documents, references, and supporting material.
 
-Models
-    Engineering subsystem descriptions and simulation models.
+    - Models
+      Engineering subsystem descriptions and simulation models.
 
-Software
-    Go source code implementing the digital twin.
+    - Software
+      Go source code implementing the digital twin.
 
 
