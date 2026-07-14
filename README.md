@@ -1,5 +1,10 @@
 Amador Digital Twin simulation
 Buena Vista Biomass AI Data Center
+Version 0.0
+July 14, 2026
+
+A public, evidence-based engineering study and digital twin of the proposed
+Buena Vista biomass-powered AI data center in Ione, Amador County, California
 
 Written by Maurice Bizzarri with a lot of help from ChatGPT, July 2026
 
@@ -15,10 +20,13 @@ The project is presently in the Discovery phase.
 
 The emphasis is on collecting, organizing, and validating publicly available
 technical information before implementing detailed simulation models.
+The goal is NOT to reach any conclusions bad or good, but rather to enable
+the reader to reach their own conclusions.  This is an EXTREMELY complicated
+subject that requires a mountain of data to understand.
 
-Conclusions will be based on evidence rather than assumptions, and
+Any conclusions will be based on evidence rather than assumptions, and
 all significant engineering parameters will be traceable to their
 supporting sources.
 
-This is just the beginning - version 0.0
+
 
